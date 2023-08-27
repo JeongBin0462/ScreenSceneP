@@ -17,19 +17,22 @@
   	- 6-3. 비밀번호 변경
 
 ### <a name="fun0">홈화면</a>
-<img src="https://github.com/Psh230412/FirstWeb/assets/134483516/f0a97129-5c69-4ec9-a30e-b1866a206be1"/>
+<img src="https://github.com/Psh230412/MovieTravelProject/assets/134483516/ed23b7be-cb0f-4e94-bfde-e9642ca454b4"/>
 
 ### <a name="fun1">영화 선택</a>
-<img src="https://github.com/Psh230412/FirstWeb/assets/134483516/9f481ede-149b-4efd-b42a-5c9fe247c2e0"/>
+<img src="https://github.com/Psh230412/MovieTravelProject/assets/134483516/f896d3d3-c780-4721-a363-ea858a7b9903"/>
 
 ### <a name="fun2">영화 촬영지 선택</a>
-<img src="https://github.com/Psh230412/FirstWeb/assets/134483516/b95ef4d0-7c32-4544-b469-23178b566645"/>
+<img src="https://github.com/Psh230412/MovieTravelProject/assets/134483516/59a05239-ebf3-48f9-ad63-27f231c9baa0"/>
 
 ### <a name="fun3">경로 선택</a>
-<img src="https://github.com/Psh230412/FirstWeb/assets/134483516/29bc6027-427d-42af-8a49-2740f8a64192"/>
+<img src="https://github.com/Psh230412/MovieTravelProject/assets/134483516/7aaf0654-aba7-4c2b-a0d6-0db8c4a68915"/>
+
+#### <a>촬영지 주변 호텔 & 레스토랑 확인</a>
+<img src="https://github.com/Psh230412/MovieTravelProject/assets/134483516/8c7b4976-2d84-4dba-85d3-f7ae4d7b6fd5"/>
 
 ### <a name="fun4">마이페이지</a>
-<img src="https://github.com/Psh230412/FirstWeb/assets/134483516/ec9e5b4f-c514-4406-826c-a0853ca015ef"/>
+<img src="https://github.com/Psh230412/MovieTravelProject/assets/134483516/32a21a8c-319f-4f8c-b39d-ceaee78a29f7"/>
 
 ### <a name="fun5">내 정보 변경</a>
 <img src="https://github.com/Psh230412/0623Start/assets/134483516/14b420c1-7f55-447d-a054-d7e4d51c074a"/>
